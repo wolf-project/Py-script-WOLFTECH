@@ -9,10 +9,10 @@
 # Apresentação - Este script foi criado com a ideia de facilitar o cálculo de orçamento de clientes que visitarem o web-site atráves
 # do cartão de visitas entregue em reuniões ou networking
 
-#Dúvidas ? sugestões ? feddbacks positivos ou negativos ? me envie um e-mail - consuegra177@gmail.com
+#Dúvidas ? sugestões ? feddbacks positivos ou negativos ? me envie um e-mail - wolfsecurity@protonmail.com 
 
 
-# Funções especiais
+# Tomada de importação
 
 import os
 import sys
@@ -42,8 +42,8 @@ def banner():
 
                           wolfsecurity@protonmail.com
                               www.wolftech.com.br
-                        Problemas com seu computador ?
-                           FALE com especialistas ! '''
+                                Suporte técnico 
+                            '''
 print
 print
 
@@ -61,18 +61,18 @@ def menu():
 
     print  "     [i] Bem-vindo ao gerador de orcamentos WOLF TECHNOLOGIES                    [i] "
     print  "     [i] Escolha o servico desejado digitando numeros de 1 - 7                   [i] "
-    print  "     [i] Precisando de suporte mensal ? solicite ja seu orcamento (61) 9580-7967 [i] "
+    print  "     [i] Precisando de suporte mensal ? solicite já seu orçamento (XX)XXXX-XXXX  [i] "
     
     # Informações sobre o menu e como utilizar
 
     print
     print
-    print   "    [1] -Limpeza , Formatacao , Backup , Report completo do sistema   "
+    print   "    [1] -Limpeza , Formatação , Backup , Report completo do sistema   "
     print   "    [2] -Limpeza completa - Desktop & Notebook                        "
     print   "    [3] -Backup de dados                                              "
-    print   "    [4] -Analise completa do sistema                                  "
-    print   "    [5] -Criacao e hospedagem de sites profissionais                  "
-    print   "    [6] -Tecnicas de SEO, criacao de conteudo                         "
+    print   "    [4] -Análise completa do sistema                                  "
+    print   "    [5] -Criação e hospedagem de sites profissionais                  "
+    print   "    [6] -Técnicas de SEO, criação de conteúdo                         "
     print   "    [7] -Contratos corporativos 3,6 e 12 meses                        "
     print   "    [0] -Sair do programa                                             "
     print
