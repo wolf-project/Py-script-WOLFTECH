@@ -16,6 +16,7 @@
 
 import os
 import sys
+import platform
 
 from   datetime import datetime
 now =  datetime.now()  
@@ -44,6 +45,9 @@ def banner():
                               www.wolftech.com.br
                                 Suporte técnico 
                             '''
+
+print (platform.system())
+print (platform.release())
 print
 print
 
